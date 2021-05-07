@@ -1,10 +1,9 @@
 {
-    "token": "ODM0MDQ2NTc5Mzg3OTI0NTIx.YH7MaA.0iBYSMZSuHpO0oG71WXIsBimktc",
-    "author": "S p o o k y#9135",
-    "prefix": "s-",
-    "statut": "Suki - By Spooky",
-    "type": "WATCHING",
-    "anime": "Darling In The FranXX, Ijiranaide, Nagatoro-san",
-    "lan": "JavaScript (.js) + JSON (.json)",
-    "footer": "Suki • 2021 "
+    "token": "your token bot",
+    "author": "author name",
+    "prefix": "prefix",
+    "type": "type (WATCHING, PLAYING, LISTING (i think), STREAMING)",
+    "anime": "your favorite anime(s) (not mandatory) ",
+    "lan": "langugage of your bot ",
+    "footer": "your footer (not mandatory)"
 }
